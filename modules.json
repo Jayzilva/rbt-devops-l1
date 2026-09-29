@@ -1,0 +1,80 @@
+[
+  {
+    "key": "m01",
+    "n": 1,
+    "id": "OPS-L1-M01",
+    "title": "Linux, Git & CI",
+    "dir": "m01-linux-git-cicd-foundations",
+    "dates": "Sun 11 Oct 2026",
+    "week": 2,
+    "academySlug": "month-1-linux-git-cicd-foundations",
+    "gammaSlug": null,
+    "summary": "Bash scripting, Git workflows and a first CI pipeline in GitHub Actions or GitLab CI.",
+    "headlineMetric": "green CI pipeline"
+  },
+  {
+    "key": "m02",
+    "n": 2,
+    "id": "OPS-L1-M02",
+    "title": "Containerization with Docker",
+    "dir": "m02-containerization-docker",
+    "dates": "Wed 14 – Thu 15 Oct 2026",
+    "week": 3,
+    "academySlug": "month-2-containerization-docker",
+    "gammaSlug": null,
+    "summary": "Multi-stage Docker images, Compose stacks and a private registry with image scanning.",
+    "headlineMetric": "small, scanned images"
+  },
+  {
+    "key": "m03",
+    "n": 3,
+    "id": "OPS-L1-M03",
+    "title": "Kubernetes Fundamentals",
+    "dir": "m03-kubernetes-fundamentals",
+    "dates": "Wed 21 – Thu 22 Oct 2026",
+    "week": 4,
+    "academySlug": "month-3-kubernetes-fundamentals",
+    "gammaSlug": null,
+    "summary": "Run workloads on a local Kubernetes cluster with Services, ConfigMaps, Secrets and Helm.",
+    "headlineMetric": "Helm release"
+  },
+  {
+    "key": "m04",
+    "n": 4,
+    "id": "OPS-L1-M04",
+    "title": "Infrastructure as Code",
+    "dir": "m04-iac-terraform-opentofu",
+    "dates": "Mon 26 – Tue 27 Oct 2026",
+    "week": 5,
+    "academySlug": "month-4-iac-terraform-opentofu",
+    "gammaSlug": null,
+    "summary": "Terraform/OpenTofu modules, remote state and multiple environments.",
+    "headlineMetric": "multi-env IaC"
+  },
+  {
+    "key": "m05",
+    "n": 5,
+    "id": "OPS-L1-M05",
+    "title": "Observability",
+    "dir": "m05-observability-prometheus",
+    "dates": "Mon 2 – Tue 3 Nov 2026",
+    "week": 6,
+    "academySlug": "month-5-observability-prometheus",
+    "gammaSlug": null,
+    "summary": "Metrics, logs, dashboards and alerts with Prometheus, Grafana and Loki, plus SLO basics.",
+    "headlineMetric": "dashboards + alerts"
+  },
+  {
+    "key": "m06",
+    "n": 6,
+    "id": "OPS-L1-M06",
+    "title": "End-to-End CI/CD (capstone)",
+    "dir": "m06-cicd-end-to-end-capstone",
+    "dates": "Mon 9 – Tue 10 Nov 2026",
+    "week": 7,
+    "academySlug": "month-6-cicd-end-to-end-capstone",
+    "gammaSlug": null,
+    "summary": "Capstone: build, test, scan and deploy with progressive delivery and automatic rollback.",
+    "headlineMetric": "canary + rollback"
+  }
+]
